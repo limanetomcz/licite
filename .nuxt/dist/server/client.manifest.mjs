@@ -1,0 +1,1 @@
+export { default } from "file:///D:/sistemas/liciteFront/licite/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
